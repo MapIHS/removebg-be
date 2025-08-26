@@ -1,0 +1,7 @@
+*.jpg
+*.png
+models
+uploads
+.venv
+.env
+__pycache__

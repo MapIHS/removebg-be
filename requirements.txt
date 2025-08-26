@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+Pillow
+transparent-background
+python-multipart
+python-dotenv
